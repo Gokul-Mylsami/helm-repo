@@ -3,12 +3,12 @@ entries:
   todo-app:
   - apiVersion: v3
     appVersion: 1.16.0
-    created: "2023-10-05T15:07:49.300134+05:30"
+    created: "2023-10-05T15:14:03.890348+05:30"
     description: A todo app
-    digest: 6e41f2145628b3e654934f089b95f7c249c8e89f0aed1c4706b47eddbd20730a
+    digest: e8218c6bda93083ef5903a4976208e7a4617258e55296999f57ee98e57a5e411
     name: todo-app
     type: application
     urls:
     - todo-app-0.0.1.tgz
     version: 0.0.1
-generated: "2023-10-05T15:07:49.2991327+05:30"
+generated: "2023-10-05T15:14:03.8893479+05:30"
